@@ -65,5 +65,5 @@ To get involved in CarbonData:
 
 ## About
 Apache CarbonData is an open source project of The Apache Software Foundation (ASF).
-[![Coverage Status](https://coveralls.io/repos/github/sathishvit/incubator-carbondata/badge.svg?branch=master)](https://coveralls.io/github/sathishvit/incubator-carbondata?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/sathishvit/incubator-carbondata/badge.svg?branch=master)](https://coveralls.io/github/sathishvit/incubator-carbondata?branch=master) 
 
